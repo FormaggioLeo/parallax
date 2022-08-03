@@ -50,13 +50,13 @@ section.parallax:after {
 }
 
 section.module.parallax1 {
-  background-image: url(../images/parallax/parallax1.jpg);
+  background-image: url(./images/parallax/parallax1.jpg);
 }
 section.module.parallax2 {
-  background-image: url(../images/parallax/parallax2.jpg);
+  background-image: url(./images/parallax/parallax2.jpg);
 }
 section.module.parallax3 {
-  background-image: url(../images/parallax/parallax3.jpg);
+  background-image: url(./images/parallax/parallax3.jpg);
 }
 
 section.module.parallax {
